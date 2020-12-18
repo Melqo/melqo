@@ -59,4 +59,4 @@ Réagissez avec le rôle :
     }}});
 
     
-clientDiscord.login('Nzg5NDc1OTgyODAwMDYwNDM3.X9ymzg.inLXIdcl0DfrbhZRm0-o2xkseSo');
+clientDiscord.login(process.env.TOKEN);
